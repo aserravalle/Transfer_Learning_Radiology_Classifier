@@ -1,5 +1,5 @@
 # Transfer_Learning_Radiology_Classifier
-Keras Transfer Learning to classify radiology scans with pneumonia. (Source)[https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia#chest_xray.zip] Kaggle Dataset.
+Keras Transfer Learning to classify radiology scans with pneumonia. [Source](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia#chest_xray.zip) Kaggle Dataset.
 
 # Method:
 
