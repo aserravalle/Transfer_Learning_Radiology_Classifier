@@ -19,4 +19,4 @@ Keras Transfer Learning to classify radiology scans with pneumonia. (Source)[htt
  - Not optimization or building new layers
  
  # Performance
- Model had 100% accuracy on validation data
+ Model had 100% accuracy on validation data. This suggests overfitting. Will repeat using a larger validation set.
